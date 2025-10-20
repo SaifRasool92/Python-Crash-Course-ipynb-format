@@ -8,8 +8,9 @@
 </div>
 <br><br>
 <div align="center" style="width: 0%;">
-  <img style="width: 0%;" src="https://github.com/user-attachments/assets/2bd1ecbe-ea09-4631-8fc2-6744b3c2962c" alt="Screenshot">
+  <img style="width: 0%;" src="https://github.com/user-attachments/assets/61bb0c1e-3974-403d-9450-98fb4b645724" alt="Screenshot">
 </div>
+
 
 
 <div align='center'>
