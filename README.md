@@ -11,8 +11,11 @@
   <img style="width: 0%;" src="https://github.com/user-attachments/assets/61bb0c1e-3974-403d-9450-98fb4b645724" alt="Screenshot">
 </div>
 
+<div align='center'>
+  <h1 >Course Resource Book</h1>
+</div>
 
 
 <div align='center'>
-  <h3 >Course Resource Book</h3>
+  <h5>Created with ❤ by Saif Ur Rasool</h5>
 </div>
