@@ -3,7 +3,7 @@
 </div>-->
 
 <img width="100%"  alt="Python Crash Course Colab Notebooks" src="https://github.com/user-attachments/assets/52e99340-8a71-4d39-9d25-06ac92a4279d" />
-<hr>
+
 <div>
   <h2><span>Here You can access Goodle Drive Link of whole Course: </span>
   <a href='https://drive.google.com/drive/folders/1cW8-7wOi1TtWgJB5wRUEQDb-6mlugbAx?usp=drive_link'>link</a></h2>
