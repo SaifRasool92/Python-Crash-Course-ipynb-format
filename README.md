@@ -19,5 +19,5 @@
 
 
 <div align='center'>
-  <h5>Created with ❤ by Saif Ur Rasool</h5>
+  <h5>Created with 💜 by Saif Ur Rasool</h5>
 </div>
